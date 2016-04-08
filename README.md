@@ -5,7 +5,8 @@
 
 1.  Download weather datasets  2007.csv.gz  and 2008.csv.gz from
 http://www1.ncdc.noaa.pub/gov/data/ghcn/daily/by_year/
-	
+
+To visualize weather 2007 for airport KORD follow https://public.tableau.com/profile/publish/weather_2007_KORD/Sheet2#!/publish-confirm
 
 2.  Download airline delay history
 
