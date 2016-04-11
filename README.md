@@ -18,12 +18,13 @@
 4.  Analyze the correlation between weather and airline dealy.
 5.  Use spark mllib, to build a predictive system, the architecture should take current weather as feed and predict airline delay.
 
+[To view results](/doc/iteration_1.md)
 
 This excercise is based on
 
-	[reference1](http://nbviewer.jupyter.org/github/ofermend/IPython-notebooks/blob/master/blog-part-2.ipynb)
+	http://nbviewer.jupyter.org/github/ofermend/IPython-notebooks/blob/master/blog-part-2.ipynb
 	
-		[reference1] (http://hortonworks.com/blog/data-science-apacheh-hadoop-predicting-airline-delays/)
+	http://hortonworks.com/blog/data-science-apacheh-hadoop-predicting-airline-delays/
 
 
 
